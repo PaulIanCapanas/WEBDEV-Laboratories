@@ -1,0 +1,17 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "learning about NPM",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Ian Capanas",
+  "license": "ISC",
+  "dependencies": {
+    "random_numbers_generator": "^2.0.0",
+    "sillyname": "^0.1.0"
+  }
+}
+
